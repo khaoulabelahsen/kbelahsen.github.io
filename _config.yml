@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -309,3 +310,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+=======
+theme: jekyll-theme-minimal
+>>>>>>> 2d2198319b38c777011da1cd51b96b03bdabfdf8
